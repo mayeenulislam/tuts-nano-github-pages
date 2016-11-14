@@ -1,0 +1,56 @@
+/**
+ * A demo style sheet
+ *
+ * @project GithubPages Demo
+ * @author  nanodesigns
+ */
+
+body{
+	font-family: 'PT Serif', serif;
+}
+
+h1,
+h2{
+	font-family: 'Bree Serif', serif;
+}
+
+h2{
+	font-size: 17px;
+	color: #999
+}
+
+.container{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.site-header{
+	margin-bottom: 20px;
+	padding: 20px 0;
+	border-top: 2px solid #ccc;
+	border-bottom: 2px solid #ccc;
+}
+
+.site-header h1{
+	margin: 0;
+}
+
+.site-header h2{
+	margin-top: 0;
+}
+
+article{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+article h1{
+	font-size: 18px;
+}
+
+.site-footer{
+	padding: 10px 0;
+	border-top: 2px solid #ccc;
+	border-bottom: 2px solid #ccc;
+	color: #999;
+}
